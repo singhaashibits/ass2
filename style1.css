@@ -1,0 +1,17 @@
+
+body{
+    background-color: powderblue;
+}
+h1{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+    font-weight: bold;
+    line-height: 2em;
+}
+p{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 160%;
+    
+}
